@@ -1,0 +1,11 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src",
+  "scripts": {
+    "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
