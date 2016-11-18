@@ -7,5 +7,13 @@
     "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C/app.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "1.13.3"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "body-parser": "1.15.2",
+    "mongoose": "4.6.8"
+  }
 }
