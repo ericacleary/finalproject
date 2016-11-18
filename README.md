@@ -1,4 +1,14 @@
+**THIS APP IS STILL UNDER CONSTRUCTION!**
+
+-'Edit' button is currently disabled and searching for the bug to correct the issue.
+
 MEAN is a framework for an easy starting point with [MongoDB](https://www.mongodb.org/), [Node.js](http://www.nodejs.org/), [Express](http://expressjs.com/), and [AngularJS](https://angularjs.org/) based applications.
+
+## Prerequisites
+Make sure you have installed all of the following prerequisites on your development machine:
+* Node.js - [Download & Install Node.js](https://nodejs.org/en/download/) and the npm package manager. If you encounter any problems, you can also use this [GitHub Gist](https://gist.github.com/isaacs/579814) to install Node.js.
+  * Node v5 IS NOT SUPPORTED AT THIS TIME! 
+* MongoDB - [Download & Install MongoDB](http://www.mongodb.org/downloads), and make sure it's running on the default port (27017).
 
 ## Prerequisite Technologies
 ### Linux
@@ -25,7 +35,6 @@ $ sudo apt-get install nodejs
 * *MongoDB* - Follow the tutorial here - <a href="https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/">Install mongodb on OSX</a>
 * *git* - Get git <a href="http://git-scm.com/download/mac">from here</a>.
 
+To connect to the server, use 'node/app.js' in the command prompt.
 
-local host 3000
-npm install
-node src/app.js
+This application should run on port 3000 with the *development* environment configuration, so in your browser just go to [http://localhost:3000](http://localhost:3000)
