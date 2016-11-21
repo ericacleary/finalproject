@@ -35,6 +35,6 @@ $ sudo apt-get install nodejs
 * *MongoDB* - Follow the tutorial here - <a href="https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/">Install mongodb on OSX</a>
 * *git* - Get git <a href="http://git-scm.com/download/mac">from here</a>.
 
-To connect to the server, use 'node/app.js' in the command prompt.
+To connect to the server, use 'node src/app.js' in the command prompt.
 
 This application should run on port 3000 with the *development* environment configuration, so in your browser just go to [http://localhost:3000](http://localhost:3000)
