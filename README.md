@@ -1,8 +1,11 @@
+THIS APP IS STILL UNDER CONSTRUCTION!
+-Edit button is currently disabled and searching for the bug to correct the issue.
+
 MEAN is a framework for an easy starting point with [MongoDB](https://www.mongodb.org/), [Node.js](http://www.nodejs.org/), [Express](http://expressjs.com/), and [AngularJS](https://angularjs.org/) based applications.
 
 ## Prerequisite Technologies
 ### Linux
-* *Node.js* - <a href="http://nodejs.org/download/">Download</a> and Install Node.js, nodeschool has free <a href=" http://nodeschool.io/#workshoppers">node tutorials</a> to get you started. We recommend node-4.x as the preferred node version to run mean.io.
+* *Node.js* - <a href="http://nodejs.org/download/">Download</a> and Install Node.js and NPM package manager.
 * *MongoDB* - <a href="https://www.mongodb.org/downloads">Download</a> and Install mongodb - <a href="https://docs.mongodb.org/manual/">Checkout their manual</a> if you're just starting.
 
 If you're using ubuntu, this is the preferred repository to use...
@@ -26,6 +29,6 @@ $ sudo apt-get install nodejs
 * *git* - Get git <a href="http://git-scm.com/download/mac">from here</a>.
 
 
-local host 3000
-npm install
-node src/app.js
+To connect to the server, use 'node src/app.js' in the command prompt.
+
+This application should run on port 3000 the development environment configuration, so in tour browser just go to http://localhost:3000.

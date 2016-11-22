@@ -1,5 +1,3 @@
-
-
 webpackJsonp([0],[
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
@@ -81,7 +79,7 @@ webpackJsonp([0],[
 /* 5 */
 /***/ function(module, exports) {
 
-
+	
 	'use strict';
 
 
@@ -143,7 +141,7 @@ webpackJsonp([0],[
 /* 6 */
 /***/ function(module, exports, __webpack_require__) {
 
-
+	
 
 
 
@@ -162,7 +160,7 @@ webpackJsonp([0],[
 /* 7 */
 /***/ function(module, exports) {
 
-
+	//Edit button is missing...Need to fix.
 
 
 
@@ -249,7 +247,7 @@ webpackJsonp([0],[
 /* 8 */
 /***/ function(module, exports, __webpack_require__) {
 
-
+	
 
 
 
