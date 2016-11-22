@@ -1,3 +1,5 @@
+
+
     <div class="item" ng-class="{'editing-item': editing, 'edited': todo.edited, 'completed': todo.completed}" ng-repeat="todo in todos | orderBy: 'completed' " ng-init="todo.completed = false">
 
       <input type="checkbox" ng-model="todo.completed" />
